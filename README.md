@@ -1,8 +1,15 @@
 # pp5omt
-PP5OMT: The World's First WX  CW Beacon
+PP5OMT: The World's First WX CW Beacon
 
-This is a very simple "CW CW Beacon" for Amateur Radio purposes of my own.
+This is a very simple WX (Weather) CW (Continuos Wave) Beacon
+They are widely utilized for Amateur Radio purposes, all over the World 
 
-You can look more ( the "real thing" ! ) here: www.qrz.com.db/pp5vx
+Initially I made it with a low end 12F PIC ( a "12F683" )
+But the Arduino Nano R3 is very cheap and readly availabe, so...
+But, our is the FIRST in the World active on a HF Band ( LOL ) 
 
-73/DX de PP5VX ( Bone )
+You can look more (the "real thing" !) here: www.qrz.com.db/pp5vx
+
+Enjoy !
+
+73/DX/SYOS de PP5VX (Bone)
