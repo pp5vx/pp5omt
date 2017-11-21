@@ -11,7 +11,7 @@ But the Arduino Nano R3 is very cheap and readly availabe, so...
 
 So, ours is the FIRST in the World active on a HF Band ( LOL ) 
 
-You can look more (the "real thing" !) here: www.qrz.com.db/pp5vx
+You can look more (the "real thing" !) here: www.qrz.com.db/pp5omt
 
 Enjoy !
 
