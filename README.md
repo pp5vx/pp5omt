@@ -23,5 +23,7 @@ You can look more ( somewhat the "real thing" ! ) here: www.qrz.com/db/pp5omt
 Enjoy !
 
 73/DX/SYOS de PP5VX (Bone)
+
 pp5vx ( .--.-. ) amsat.org
+
 ( 43 years of "pure hamming", and counting up ! )
