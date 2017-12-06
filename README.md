@@ -1,26 +1,26 @@
 #PP5OMT
 
-The ( World's First ? ) HF WX Telemetry CW Beacon !
+This is a (World's First ?) HF WX Telemetry CW Beacon !
 
-This is a very simple WX (Weather) CW (Continuos Wave) Beacon
+A very simple WX (Weather) CW (Continuos Wave) Beacon on HF
 
 They are widely utilized for Amateur Radio purposes, all over the World
 
-To study "eletromagnetic propagation" in real time ( ...an "old school" approach ! LOL ) 
+Purpose: To study "eletromagnetic propagation" in real time ( ..."old school" approach ! LOL ) 
 
-But on HF (3 MHZ to 30 MHZ) that are ours, in a "Low Band", is the **very First** !
+So, on HF (from 3 MHZ to 30 MHZ), and in a "Low Band" - ours - is the **First** (?)
 
-Initially, made it with a low end 12F PIC ( "12F675 or 12F683" )
+Initially, made with a low end 12F PIC ( 12F675 and after, a 12F683 )
 
-But the Arduino Nano R3 is very cheap, ready availabe, easy to change...
+We discover Arduino ( Nano R3 ) that's very cheap, readily available, and easy to change
 
-So, put a cheap Arduino, hooked to a Motorola "Micon-S" gifted from an OT...
+We put out that PUC and changed to an Arduino, and hooked all things to a Motorola "Micon-S"
 
-... and ours is the very first WX "Low HF Band" Beacon, in the whole World !
+( this Micon-S be very wellcome gift from an OT ! And for all of you ! )
 
-You can look more ( somewhat the "real thing" ! ) here: www.qrz.com/db/pp5omt
+If you wish to look more (somewhat the "real thing" !), try here: www.qrz.com/db/pp5omt
 
-Enjoy !
+Enjoy all !
 
 73/DX/SYOS de PP5VX (Bone)
 
