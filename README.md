@@ -14,13 +14,13 @@ Initially, made with a low end 12F PIC ( 12F675 and after, a 12F683 )
 
 We discover Arduino ( Nano R3 ) that's very cheap, readily available, and easy to change
 
-We put out that PUC and changed to an Arduino, and hooked all things to a Motorola "Micon-S"
+We pull out PIC, and changed to Arduino, after hooked all things to a Motorola "Micon-S"
 
 ( this Micon-S be very wellcome gift from an OT ! And for all of you ! )
 
 If you wish to look more (somewhat the "real thing" !), try here: www.qrz.com/db/pp5omt
 
-Enjoy all !
+Enjoy - because this is for **all of you** !
 
 73/DX/SYOS de PP5VX (Bone)
 
