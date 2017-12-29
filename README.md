@@ -1,6 +1,4 @@
-#PP5OMT
-
-This is a (World's First ?) HF WX Telemetry CW Beacon !
+This is a ( World's First ? ) HF WX Telemetry CW Beacon
 
 A very simple WX (Weather) CW (Continuos Wave) Beacon on HF
 
