@@ -14,7 +14,7 @@ So, we discover Arduino (Nano R3) very cheap, readilly available, and easy to ch
 
 We pull out PIC, and changed to Arduino, after hooked all things to a Motorola "Micon-S"
 
-( this Micon-S be very wellcome gift from an OT, for all of you ! )
+( this Micon-S has been a very wellcome gift from an OT, and **for all of you** ! )
 
 If you wish to look more (somewhat the "real thing" !), try here: www.qrz.com/db/pp5omt
 
