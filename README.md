@@ -20,9 +20,9 @@ If you wish to look more (somewhat the "real thing" !), try here: www.qrz.com/db
 
 But, this work is **licensed**, as follows:
 
-* For the whole World: **CC-BY-NC 3.0**
+* Licensed in World (except in Brazil), as: **CC BY-SA-NC 3.0**
 
-* And **_except_** in Brazil, as: **(c)2017 - PP5VX** ( PSE: **No Commercial use** )
+* Licensed **only** in Brazil, as: **©2017 - PP5VX** ( _Todos os Direitos Reservados_ )
 
 So... Enjoy ! Because this "thing" is for **all of you** !
 
